@@ -1,0 +1,25 @@
+{
+  "name": "persec2026-web-dev-interview-chaipawat",
+  "version": "1.0.0",
+  "description": "Persec Web Developer Interview - TypeScript Logic Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaipawat/persec2026-Web-dev-interview-chaipawat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaipawat/persec2026-Web-dev-interview-chaipawat/issues"
+  },
+  "homepage": "https://github.com/Chaipawat/persec2026-Web-dev-interview-chaipawat#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

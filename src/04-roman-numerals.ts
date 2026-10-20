@@ -1,0 +1,1 @@
+console.log("Persec Logic Test - Question 4");
